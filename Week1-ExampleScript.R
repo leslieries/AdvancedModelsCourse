@@ -46,20 +46,40 @@ boxplot(Sepal.Length~Species, data=iris[iris$Species!="versicolor",], notch=TRUE
         main="Sepal Length by Species", xlab="Species")
 
 
-# 2. Intro to Github: Instructions 
-# 
-# AFTER creating Github account, keep Github credentials available. 
-# If you haven't already: 
-# Create a new RStudio project, select Version Control, Git, and use this repository link:
-# https://github.com/leslieries/AdvancedModelsCourse
-# On the top left panel, you'll now see a "Git" tab. 
-# Within the git tab, the branch of the git repository you are on is int he top right corner. 
-# The default is "master"
-# Use the icon to the left to create a new branch  
-# Edit this file in that branch.
-# Commit the changes to your branch.
-# Push changes to origin.
+
+
+#####################  END HERE ###################
+
+
+
+
+## 2. Intro to Github: Instructions 
+##    ALL LINES BELOW COMMENTED OUT BUT YOU WILL RUN SOME OF THEM
+##
+## AFTER creating Github account, keep Github credentials available. 
+## If you haven't already: 
+
+## A. Configure Github:
+## install if needed (do this exactly once):
+## RUN:
+# install.packages("usethis")
+
+##configure name & email using your own name and email and then RUN:
+#library(usethis)
+#use_git_config(user.name = "YOUR NAME", user.email = "YOUREMAIL@georgetown.edu")
+
+## B. Create a new RStudio project, select Version Control, Git, and use this repository link:
+## https://github.com/leslieries/AdvancedModelsCourse
+## On the top left panel, you'll now see a "Git" tab. 
+## Within the git tab, the branch of the git repository you are on is int he top right corner. 
+## The default is "master"
+## Use the icon to the left to create a new branch  
+## Edit this file in that branch.
+## Commit the changes to your branch (include a commit message).
+
+### FOR THE FOLLOWING, YOU WILL NEED TO BE ADDED AS A COLLABORATOR ON GITHUB.
 # Switch to master branch.
-# Merge branches.
+# Merge branches (using shell in Tools menu).
+# Push changes to origin.
 
 
