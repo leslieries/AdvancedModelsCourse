@@ -12,14 +12,14 @@ summary(iris)
 
 #iris data has 3 species. I select 2 to compare. There are many ways to do this. 
 setosa.sl<-iris$Sepal.Length[iris$Species=="setosa"]
-virginica.sl<-iris$Sepal.Length[iris$Species=="virginica"]
+virginica.sl<-subset(iris$Sepal.Length, iris$Species=="virginica")
 
 #analysis: t-test?
 
 #test assumptions: Normality, Equal Variance
 
 #Normality
-hist(iris$Sepal.Length[iris$Species!=”versicolor”])
+hist(iris$Sepal.Length[iris$Species!='versicolor'])
 ## Perform the test
 shapiro.test(setosa.sl)
 shapiro.test(virginica.sl)
@@ -33,8 +33,8 @@ var(setosa.sl)
 var(virginica.sl)
 ### DOES NOT PASS ASSUMPTION. Cannot use t.test()
 
-##MANN WHITNEY U TEST
-# independent 2-group Mann-Whitney U Test
+##MANN WHITNEY U TEST / WILCOXON RANK  SUM TEST
+# Wilcoxon rank sum test
 wilcox.test(setosa.sl,virginica.sl)
 
 ## CONCLUSION: REJECT the idea that sepal lengths are the same between setosa and virginica species
@@ -48,7 +48,7 @@ boxplot(Sepal.Length~Species, data=iris[iris$Species!="versicolor",], notch=TRUE
 
 
 
-#####################  END HERE ###################
+#####################  END INTRO TO R HERE ###################
 
 
 
