@@ -64,7 +64,7 @@ head(stat.review) #shows column names and first 5 rows
 summary(stat.review) #gives summary statistics by column
 
 #dplyr is a very useful package for manipulating data
-#install.packages("dplyr") ## install if needed
+#install.packages("dplyr","ggplot2") ## install if needed
 library(dplyr)
 library(ggplot2)
 
@@ -130,6 +130,7 @@ plotnostatsgroup<-ggplot(study.x.year, aes(fill=(stat.boolean), y=n.studies, x=Y
   ylab("Number of Studies")
 
 #Facet by study type
+plotnostatsgroup + facet_wrap(~Type.of.study, ncol=2)
 plotnostatsgroup + facet_grid(Type.of.study ~ .)
 
 # Stacked Percent
@@ -137,6 +138,7 @@ plotnostatsgroupProp<-ggplot(study.x.year, aes(fill=(stat.boolean), y=n.studies,
   geom_bar( stat="identity", position="fill") + 
   ylab("Proportion of Studies")
 #Facet by study type
+plotnostatsgroupProp + facet_wrap(~Type.of.study, ncol=2)
 plotnostatsgroupProp + facet_grid(Type.of.study ~ .)
 
 
@@ -170,6 +172,7 @@ plotstattypes<-ggplot(test.x.year, aes(fill=(stat.type), y=n.studies, x=Year)) +
   ylab("Number of Studies")
 
 #Facet by study type
+plotstattypes + facet_wrap(~Type.of.study, ncol=2)
 plotstattypes + facet_grid(Type.of.study ~ .)
 
 # Stacked Percent
@@ -179,13 +182,15 @@ plotstattypesProp<-ggplot(test.x.year, aes(fill=(stat.type), y=n.studies, x=Year
   ylab("Proportion of Studies")
 #Facet by study type
 plotstattypesProp
-plotstattypesProp + facet_grid(Type.of.study ~ .)
 plotstattypesProp + facet_wrap(~Type.of.study, ncol=2)
+plotstattypesProp + facet_grid(Type.of.study ~ .)
 
 ### Class Activities:
 
 ##Filter data to only regression studies (using "Regression" column NOT "stat.type" column)
-
+regression.review <- stat.review %>%
+  filter(Regression==1) %>%
+  select(Year, Type.of.study, Regression, X.Auth, Solution.to.assumptions.of.non.normality, Mixed.effects, Model.selection)
 
 # Look at the proportion of regression studies over time that:
 #  act as if all assumptions met
