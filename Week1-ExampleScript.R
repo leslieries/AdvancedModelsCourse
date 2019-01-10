@@ -64,7 +64,8 @@ head(stat.review) #shows column names and first 5 rows
 summary(stat.review) #gives summary statistics by column
 
 #dplyr is a very useful package for manipulating data
-#install.packages("dplyr","ggplot2") ## install if needed
+#install.packages("dplyr") ## install this package if needed
+#install.packages("ggplot2") ## install this package if needed
 library(dplyr)
 library(ggplot2)
 
