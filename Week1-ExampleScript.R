@@ -141,8 +141,44 @@ plotnostatsgroupProp + facet_grid(Type.of.study ~ .)
 
 
 
-# And what Type of statistics (Correlation, GOF, Regression, Other)
+# Look at what Type of statistics were used (Correlation, GOF, Regression, Other)
+study.review$stat.type<-as.factor("none")
+levels(study.review$stat.type)<-c("none","correlation","regression","gof","multiple","other")
+study.review$stat.type[study.review$Correlation==1]<-"correlation"
+study.review$stat.type[study.review$GOF==1 & is.na(study.review$Correlation)]<-"gof"
+study.review$stat.type[study.review$GOF==1 & study.review$Correlation==1]<-"multiple"
+study.review$stat.type[study.review$Regression==1 & is.na(study.review$GOF) & is.na(study.review$Correlation)]<-"regression"
+study.review$stat.type[study.review$Regression==1 & study.review$Correlation==1]<-"multiple"
+study.review$stat.type[study.review$Regression==1 & study.review$GOF==1]<-"multiple"
+study.review$stat.type[study.review$stat.type=="none" & study.review$stat.boolean=="yes"]<-"other"
 
+
+#summarize data of interest
+test.x.year<-study.review %>%
+  group_by(Year, Type.of.study, stat.type) %>%
+  summarize(n())
+names(test.x.year)[4]<-"n.studies"
+
+## Visualizations
+# Try this palette with black from http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/#a-colorblind-friendly-palette:
+cbbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+
+## stacked
+plotstattypes<-ggplot(test.x.year, aes(fill=(stat.type), y=n.studies, x=Year)) + 
+  geom_bar(stat="identity") +
+  scale_fill_manual(values=cbbPalette) +
+  ylab("Number of Studies")
+
+#Facet by study type
+plotstattypes + facet_grid(Type.of.study ~ .)
+
+# Stacked Percent
+plotstattypesProp<-ggplot(test.x.year, aes(fill=(stat.type), y=n.studies, x=Year)) + 
+  geom_bar( stat="identity", position="fill") + 
+  scale_fill_manual(values=cbbPalette) +
+  ylab("Proportion of Studies")
+#Facet by study type
+plotstattypesProp + facet_grid(Type.of.study ~ .)
 
 
 ### Class Activities:
