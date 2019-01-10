@@ -1,0 +1,700 @@
+Journal,Year,Vol,Issue,Start pg,End pg,F?,#Auth,Type of study,No statistical test,Correlation,GOF,Regression,Non-linear,Solution to assumptions of non-normality,Mixed effects,Other model,Not specified,Model selection
+Ecology,2015,96,12,3175,3185,?,4,Simulation study,,,,1,,AltDist,1,,,
+Ecology,1985,66,6,1762,1768,Y,2,Simulation study,,,,1,,,,,,P only
+Ecology,2010,91,12,3675,3685,Y,3,Observational study,,,,1,,AltDist,1,,,Other
+Ecology,1990,71,6,2145,2156,Y,5,Simulation study,1,,,,,,,,,
+Ecology,1995,76,8,2663,2668,?,4,Simulation study,1,,,,,,,,,
+Ecology,2000,81,12,3291,3304,?,4,Simulation study,1,,,,,,,,,
+Ecology,2005,86,12,3258,3263,N,2,Simulation study,,,,,,,,,,
+Ecology,2005,86,12,3252,3257,?,3,Review,,,,1,,,,,,Other
+Ecology,1955,36,1,23,28,N,1,Review,,,,,,,,,,
+Ecology,1960,41,3,549,551,?,2,Review,,,,,,,,,,
+Ecology,1960,41,3,587,592,N,1,Review,,,,,,,,,,
+Ecology,1965,46,6,864,867,N,1,Review,,,,,,,,,,
+Ecology,2015,96,12,3354,3362,?,8,Review,1,,,,,,,,,CI only
+Ecology,1950,31,3,469,471,N,2,Review,,,,,,,,,,
+Ecology,2010,91,12,3481,3486,Y,6,Review,,,,,,,,,,
+Ecology,1995,76,8,2517,2529,Y,4,Other,1,,,,,,,,,
+Ecology,1975,56,6,1388,1397,N,2,Observational study,,,1,1,,,,,,P only
+Ecology,1950,31,3,456,463,N,1,Observational study,,,,1,,,,,,None
+Ecology,1950,31,3,456,463,N,1,Observational study,1,,,,,,,,,None
+Ecology,2005,86,12,3323,3333,Y,3,Observational study,,1,,1,,AltDist,1,1,,"P,AIC"
+Ecology,1995,76,8,2404,2414,N,3,Observational study,,,1,1,,AltDist,,,,P only
+Ecology,2005,86,12,3245,3251,Y,2,Observational study,,,,1,,AltDist,,,,MS-P
+Ecology,2000,81,12,3267,3273,Y,4,Observational study,,,,1,,,,,,P only
+Ecology,2015,96,12,3165,3174,Y,4,Observational study,,,,1,,AltDist,,1,,AIC only
+Ecology,2000,81,12,3350,3361,Y,11,Lab experiment,,1,,1,1,AltDist,,,,MS-P
+Ecology,2005,86,12,3364,3376,Y,4,Lab experiment,,,1,1,,AltDist,,,,P only
+Ecology,2000,81,12,3509,3521,N,3,Lab experiment,,,,1,,AltDist,,,,P only
+Ecology,1970,51,6,989,998,N,2,Lab experiment,,,,1,,AltDist,,,,
+Ecology,2005,86,12,3334,3344,Y,4,Observational study,,,,1,,,,,,P only
+Ecology,2010,91,12,3584,3597,Y,2,Observational study,,,,1,,,,,,P only
+Ecology,1950,31,3,479,484,N,2,Observational study,,,,1,,,,,,P only
+Ecology,1995,76,8,2392,2403,?,3,Field experiment,,,,1,,AltDist,,,,MS-P
+Ecology,1970,51,6,1106,1108,N,1,Observational study,,,,1,,,,,,P only
+Ecology,2005,86,12,3345,3353,N,2,Observational study,,,,1,,,,,,P only
+Ecology,1970,51,6,959,974,N,1,Observational study,,,,1,,,,,,P only
+Ecology,2015,96,12,3343,3353,Y,2,Field experiment,,,,1,,AltDist,1,,,P only
+Ecology,2005,86,12,3364,3376,Y,4,Observational study,,  ,1,1,,,,,,P only
+Ecology,2010,91,12,3719,3728,N,3,Field experiment,,,,1,,AltDist,1,,,P only
+Ecology,1990,71,6,2323,2333,N,1,Observational study,,,1,1,,,,,,P only
+Ecology,1955,36,3,473,485,?,2,Descriptive study,,,1,,,AltDist,,,,
+Ecology,2010,91,12,3433,3440,N,2,Data compilation study,,,,1,,AltDist,,,,
+Ecology,1985,66,6,1921,1927,Y,2,Observational study,,,,1,,,,,,P only
+Ecology,1980,61,6,1391,1401,N,1,Observational study,,1,,1,,,,,,P only
+Ecology,2010,91,12,3609,3619,Y,3,Observational study,,,,1,,"AltDist, xform, NP",,,,P only
+Ecology,2015,96,12,3141,3152,Y,8,Observational study,,1, ,1,1,"AltDist, xform",,,,"MS-P,AIC"
+Ecology,1955,36,1,1,6,N,1,Observational study,,,1,,,,,,,P only
+Ecology,1960,41,2,310,316,N,1,Observational study,,,1,,,,,,,P only
+Ecology,1975,56,6,1298,1313,N,1,Observational study,,,1,,,,,,,P only
+Ecology,1990,71,6,2191,2208,Y,2,Observational study,,,1,,,,,,,P only
+Ecology,1980,61,6,1297,1303,?,1,Observational study,,,1,1,,,,,,P only
+Ecology,2015,96,12,3213,3226,Y,6,Observational study,,,,1,,,,,,P only
+Ecology,1960,41,2,393,395,N,1,Observational study,,1,,,,,,,,P only
+Ecology,1985,66,6,1706,1717,Y,1,Observational study,,1,,,,,,,,P only
+Ecology,2010,91,12,3656,3663,N,3,Observational study,,,,,,"AltDist, xform",,,,"MS-P,AIC"
+Ecology,2010,91,12,3538,3548,Y,2,Field experiment,,,1,1,,"AltDist, xform",1,,,
+Ecology,2010,91,12,3515,3525,?,6,Data compilation study,,,1,1,,"AltDist, xform",1,,,P only
+Ecology,2015,96,12,3374,3385,Y,2,Observational study,,1,,1,,NP,,1,,AIC only
+Ecology,2000,81,12,3283,3290,?,4,Observational study,,,1,,,,,,,P only
+Ecology,2010,91,12,3549,3562,Y,2,Observational study,,,1,1,,NP,,,,P only
+Ecology,2005,86,12,3296,3302,Y,3,Observational study,,,,1,,NP,1,,,P only
+Ecology,1990,71,6,2095,2106,Y,2,Observational study,,,,1,,NP,,,,P only
+Ecology,1995,76,8,2627,2639,N,1,Observational study,,1,,1,,NP,1,1,,P only
+Ecology,1985,66,6,1867,1878,Y,3,Observational study,,,,1,,NP,,,,P only
+Ecology,1985,66,6,1965,1975,N,2,Observational study,,,,1,,NP,,,,P only
+Ecology,2015,96,12,3343,3353,Y,2,Observational study,,1,,1,,NP,1,,,"MS-P,AIC"
+Ecology,2005,86,12,3225,3231,Y,5,Observational study,,,1,1,1,,,,,P only
+Ecology,1980,61,6,1498,1514,N,1,Observational study,,,,1,1,,,,,P only
+Ecology,1980,61,6,1371,1379,N,1,Observational study,,1,,,,,,,1,P only
+Ecology,1995,76,8,2581,2594,Y,4,Observational study,, ,1,1,,NP,,,,
+Ecology,2005,86,12,3182,3189,N,3,Lab experiment,,,,1,,NP,,,,P only
+Ecology,1970,51,6,1094,1097,?,1,Observational study,,,,1,,,,,,P only
+Ecology,1995,76,8,2361,2372,N,2,Lab experiment,,,,1,,NP,,,,P only
+Ecology,1980,61,6,1412,1421,N,4,Observational study,,,,1,,,,,,P only
+Ecology,1980,61,6,1460,1473,?,3,Observational study,,,,1,,,,,,P only
+Ecology,1995,76,8,2490,2502,N,1,Observational study,,,,1,,,,,,P only
+Ecology,2015,96,12,3281,3291,Y,4,Observational study,,,,1,,,,,,P only
+Ecology,1975,56,6,1356,1366,Y,1,Observational study,,1,,1,,,,,,P only
+Ecology,1970,51,6,999,1011,Y,2,Observational study,,,,1,,,,,,P only
+Ecology,1990,71,6,2255,2268,N,2,Lab experiment,,,1,1,,NP,,,,P only
+Ecology,1975,56,6,1398,1406,?,2,Observational study,,,,1,,,,,,P only
+Ecology,1950,31,3,426,433,N,1,Observational study,,,,1,,,,,,P only
+Ecology,1950,31,3,479,484,N,2,Observational study,,,,1,,,,,,P only
+Ecology,1950,31,3,479,484,N,2,Observational study,,,,1,,,,,,P only
+Ecology,1980,61,6,1446,1459,N,1,Observational study,,,,1,,,,,,P only
+Ecology,1975,56,6,1314,1328,Y,1,Observational study,,1,,1,,,,,,P only
+Ecology,1975,56,6,1435,1440,N,2,Observational study,,,,1,,,,,,P only
+Ecology,1975,56,6,1367,1377,N,1,Observational study,,,,1,,,,,,P only
+Ecology,1965,46,6,900,904,Y,3,Observational study,,,,,,,,,1,P only
+Ecology,1970,51,6,1102,1105,N,1,Observational study,,,,,,,,,1,P only
+Ecology,1955,36,2,226,238,?,3,Observational study,,,,1,1,,,,,None
+Ecology,1995,76,8,2503,2516,?,2,Observational study,,1,,,,,,,,None
+Ecology,1955,36,3,423,430,N,1,Observational study,, ,,1,1,,,,,None
+Ecology,1975,56,6,1451,1454,?,1,Observational study,,,,1,,,,,,None
+Ecology,1985,66,6,1965,1975,N,2,Lab experiment,,,,1,,NP,,,,P only
+Ecology,2010,91,12,3641,3655,Y,3,Field experiment,,,,1,,NP,1,,,MS-P
+Ecology,1990,71,6,2269,2285,Y,2,Field experiment,,,,1,,NP,,,,P only
+Ecology,1985,66,6,1884,1892,Y,2,Field experiment,,1,1,1,,NP,,,,P only
+Ecology,1990,71,6,2157,2165,Y,1,Field experiment,,1,,1,1,NP,,,,P only
+Ecology,2015,96,12,3153,3164,N,3,Observational study,,,1,1,1,,,,,"MS-P,AIC"
+Ecology,1990,71,6,2345,2357,N,1,Field experiment,,,1,1,,NP,,,,P only
+Ecology,2005,86,12,3212,3218,Y,2,Field experiment,,,1,1,,NP,,,,P only
+Ecology,1990,71,6,2224,2240,Y,2,Observational study,,,,1,,,,,,Other
+Ecology,2010,91,12,3526,3537,Y,4,Observational study,,,,,,,,1,,
+Ecology,1980,61,6,1422,1433,N,1,Field experiment,,,1,1,,NP,,,,P only
+Ecology,2010,91,12,3463,3470,Y,5,Field experiment,,1,,1,,NP,,,,P only
+Ecology,1955,36,1,34,39,N,2,Observational study,,,1,,,,,,,
+Ecology,1970,51,6,1074,1082,N,1,Observational study,,,1,1,,,,,,
+Ecology,1985,66,6,1867,1878,Y,3,Field experiment,,,,1,,NP,,, ,P only
+Ecology,1955,36,3,456,463,?,1,Observational study,,1,,,,,,,,
+Ecology,1995,76,8,2347,2360,Y,5,Observational study,,1,,,,,,,,
+Ecology,1995,76,8,2595,2606,Y,1,Field experiment,,,,1,,NP,,,,
+Ecology,2005,86,12,3238,3244,Y,3,Field experiment,,,1,1,,NP,1,,,
+Ecology,1960,41,2,253,258,?,3,Observational study,,,,1,,,,,,
+Ecology,1955,36,1,158,159,?,2,Observational study,,,,1,,,,,,
+Ecology,1990,71,6,2269,2285,Y,2,Descriptive study,,,,1,,NP,,,,P only
+Ecology,1955,36,1,7,11,N,2,Observational study,,,,1,1,,,,,
+Ecology,1950,31,1,6,26,N,1,Observational study,1,,,,,,,,,
+Ecology,1950,31,1,27,35,N,2,Observational study,1,,,,,,,,,
+Ecology,1950,31,1,36,43,?,3,Observational study,1,,,,,,,,,
+Ecology,1950,31,1,44,50,?,1,Observational study,1,,,,,,,,,
+Ecology,1950,31,1,51,61,N,1,Observational study,1,,,,,,,,,
+Ecology,1950,31,1,62,74,?,1,Observational study,1,,,,,,,,,
+Ecology,1950,31,1,75,85,Y,2,Observational study,1,,,,,,,,,
+Ecology,1950,31,3,373,385,Y,1,Observational study,1,,,,,,,,,
+Ecology,1950,31,3,405,425,N,1,Observational study,1,,,,,,,,,
+Ecology,1950,31,3,484,488,?,1,Observational study,1,,,,,,,,,
+Ecology,1950,31,4,554,560,?,2,Observational study,1,,,,,,,,,
+Ecology,1950,31,4,561,566,Y,1,Observational study,1,,,,,,,,,
+Ecology,1955,36,1,71,82,N,2,Observational study,1,,,,,,,,,
+Ecology,1955,36,1,83,89,N,1,Observational study,1,,,,,,,,,
+Ecology,1955,36,1,155,156,N,3,Observational study,1,,,,,,,,,
+Ecology,1955,36,2,239,244,N,1,Observational study,1,,,,,,,,,
+Ecology,1955,36,2,244,262,?,2,Observational study,1,,,,,,,,,
+Ecology,1955,36,2,308,314,N,1,Observational study,1,,,,,,,,,
+Ecology,1955,36,2,366,367,N,1,Observational study,1,,,,,,,,,
+Ecology,1955,36,3,407,412,?,3,Observational study,1,,,,,,,,,
+Ecology,1955,36,3,417,423,N,2,Observational study,1,,,,,,,,,
+Ecology,1955,36,4,635,641,N,2,Observational study,1,,,,,,,,,
+Ecology,1955,36,4,646,658,?,2,Observational study,1,,,,,,,,,
+Ecology,1955,36,4,743,753,?,3,Observational study,1,,,,,,,,,
+Ecology,1955,36,4,754,755,N,2,Observational study,1,,,,,,,,,
+Ecology,1955,36,4,763,764,?,1,Observational study,1,,,,,,,,,
+Ecology,1960,41,1,49,56,N,1,Observational study,1,,,,,,,,,
+Ecology,1960,41,1,116,125,N,1,Observational study,1,,,,,,,,,
+Ecology,1960,41,1,116,125,N,1,Observational study,1,,,,,,,,,
+Ecology,1960,41,1,126,140,?,1,Observational study,1,,,,,,,,,
+Ecology,1960,41,1,174,182,N,1,Observational study,1,,,,,,,,,
+Ecology,1960,41,1,199,209,N,2,Observational study,1,,,,,,,,,
+Ecology,1960,41,1,224,228,?,3,Observational study,1,,,,,,,,,
+Ecology,1960,41,2,358,359,N,1,Observational study,1,,,,,,,,,
+Ecology,1960,41,3,431,445,N,1,Observational study,1,,,,,,,,,
+Ecology,1960,41,3,445,453,N,1,Observational study,1,,,,,,,,,
+Ecology,1965,46,6,786,793,?,2,Observational study,1,,,,,,,,,
+Ecology,1965,46,6,823,831,N,1,Observational study,1,,,,,,,,,
+Ecology,1965,46,6,845,852,N,2,Observational study,1,,,,,,,,,
+Ecology,1965,46,6,873,875,?,2,Observational study,1,,,,,,,,,
+Ecology,1970,51,6,1012,1017,N,1,Observational study,1,,,,,,,,,
+Ecology,1970,51,6,1018,1026,N,1,Observational study,1,,,,,,,,,
+Ecology,1970,51,6,1052,1056,N,1,Observational study,1,,,,,,,,,
+Ecology,1970,51,6,1061,1067,N,1,Observational study,1,,,,,,,,,
+Ecology,1975,56,6,1429,1434,N,1,Observational study,1,,,,,,,,,
+Ecology,1990,71,6,2374,2378,Y,2,Observational study,1,,,,,,,,,
+Ecology,1995,76,8,2446,2459,Y,2,Observational study,1,,,,,,,,,
+Ecology,2015,96,12,3175,3185,?,4,Observational study,1,,,,,,,,,
+Ecology,1955,36,3,509,511,?,1,Observation study,1,,,,,,,,,
+Ecology,1950,31,3,478,479,N,1,Obituary,,,,,,,,,,
+Ecology,2005,86,12,3174,3181,Y,4,Model development,,,,,,,,,,P only
+Ecology,1975,56,6,1281,1297,N,1,Model development,,,,,,,,,,P only
+Ecology,2000,81,12,3391,3403,N,3,Model development,,,,,,,,,,P only
+Ecology,2015,96,12,3175,3185,?,4,Model development,,,,,,,,,,Bayesian
+Ecology,1995,76,8,2607,2616,N,1,Model development,,,,,,,,,,
+Ecology,1955,36,1,89,100,?,1,Model development,,,,,,,,,,
+Ecology,1960,41,3,494,508,N,1,Model development,,,,,,,,,,
+Ecology,1960,41,2,395,399,N,3,Model development,,,,,,,,,,
+Ecology,1975,56,6,1455,1458,N,2,Model development,,,,,,,,,,
+Ecology,1985,66,6,1849,1858,N,1,Model development,,,,,,,,,,
+Ecology,1995,76,8,2446,2459,Y,2,Model development,,,,,,,,,,
+Ecology,1995,76,8,2482,2489,N,1,Model development,,,,,,,,,,
+Ecology,1995,76,8,2503,2516,?,2,Model development,,,,,,,,,,
+Ecology,2000,81,12,3305,3311,?,2,Model development,,,,,,,,,,
+Ecology,2000,81,12,3330,3340,N,3,Model development,,,,,,,,,,
+Ecology,2000,81,12,3362,3376,Y,4,Model development,,,,,,,,,,
+Ecology,2005,86,12,3139,3148,N,4,Model development,,,,,,,,,,
+Ecology,2005,86,12,3149,3159,Y,4,Model development,,,,,,,,,,
+Ecology,2005,86,12,3160,3173,Y,6,Model development,,,,,,,,,,
+Ecology,2005,86,12,3182,3189,N,3,Model development,,,,,,,,,,
+Ecology,2005,86,12,3190,3199,Y,4,Model development,,,,,,,,,,
+Ecology,2005,86,12,3200,3211,Y,8,Model development,,,,,,,,,,
+Ecology,2015,96,12,3227,3233,N,2,Model development,,,,,,,,,,
+Ecology,2015,96,12,3243,3256,Y,5,Model development,,,,,,,,,,
+Ecology,2010,91,12,3471,3480,N,1,Model development,,,,,,,,,,
+Ecology,2010,91,12,3572,3583,N,2,Model development,,,,,,,,,,
+Ecology,2005,86,12,3312,3322,Y,3,Model development,,,,,,,,,,
+Ecology,2005,86,12,3411,3414,?,2,Model development,,,,,,,,,,
+Ecology,1975,56,6,1329,1342,N,1,Model development,,,,,,,,,,
+Ecology,1955,36,3,530,533,N,1,Model development,,,,,,,,,,
+Ecology,1955,36,3,533,536,N,1,Model development,,,,,,,,,,
+Ecology,1985,66,6,1879,1883,N,1,Methods (study),,,,,,,,,,
+Ecology,1955,36,2,315,320,?,2,Methods (statistical),,,,,,,,,,P only
+Ecology,1955,36,2,342,343,?,3,Methods (statistical),,,,,,,,,,
+Ecology,1955,36,3,485,495,N,1,Methods (statistical),,,,,,,,,,
+Ecology,1960,41,1,237,239,N,1,Methods (statistical),,,,,,,,,,
+Ecology,1960,41,2,249,252,?,1,Methods (statistical),,,,,,,,,,
+Ecology,1960,41,2,391,393,Y,2,Methods (statistical),,,,,,,,,,
+Ecology,1960,41,3,409,416,?,2,Methods (statistical),,,,,,,,,,
+Ecology,1960,41,3,574,577,N,1,Methods (statistical),,,,,,,,,,
+Ecology,1970,51,6,1057,1060,?,3,Methods (statistical),,,,,,,,,,
+Ecology,1970,51,6,1098,1101,N,1,Methods (statistical),,,,,,,,,,
+Ecology,1975,56,6,1446,1450,?,2,Methods (statistical),,,,,,,,,,
+Ecology,1975,56,6,1459,1461,N,3,Methods (statistical),,,,,,,,,,
+Ecology,1985,66,6,1981,1983,?,3,Methods (statistical),,,,,,,,,,
+Ecology,1980,61,6,1553,1554,N,1,Methods (statistical),,,,,,,,,,
+Ecology,1985,66,6,1694,1698,N,3,Methods (statistical),,,,,,,,,,
+Ecology,1985,66,6,1744,1748,N,1,Methods (statistical),,,,,,,,,,
+Ecology,1985,66,6,1983,1985,N,1,Methods (statistical),,,,,,,,,,
+Ecology,1990,71,6,2044,2052,N,2,Methods (statistical),,,,,,,,,,
+Ecology,1990,71,6,2053,2059,N,1,Methods (statistical),,,,,,,,,,
+Ecology,1990,71,6,2379,2382,N,1,Methods (statistical),,,,,,,,,,
+Ecology,2000,81,12,3362,3376,Y,4,Methods (statistical),,,,,,,,,,
+Ecology,2000,81,12,3377,3390,Y,1,Methods (statistical),,,,,,,,,,
+Ecology,2005,86,12,3264,3271,Y,3,Methods (statistical),,,,,,,,,,
+Ecology,2005,86,12,3272,3278,N,2,Methods (statistical),,,,,,,,,,
+Ecology,2010,91,12,3448,3455,N,7,Methods (statistical),,,,,,,,,,
+Ecology,2010,91,12,3698,3706,?,2,Methods (statistical),,,,,,,,,,
+Ecology,2005,86,12,3398,3411,Y,3,Methods (statistical),,,,,,,,,,
+Ecology,1960,41,1,228,229,?,1,Methods (statistical),,,,,,,,,,
+Ecology,1960,41,2,258,268,N,1,Methods (statistical),,,,,,,,,,
+Ecology,1950,31,1,149,,?,2,Methods (data collection),,,,,,,,,,
+Ecology,1950,31,3,434,455,?,2,Methods (data collection),,,,,,,,,,
+Ecology,1950,31,3,464,469,N,1,Methods (data collection),,,,,,,,,,
+Ecology,1950,31,3,472,473,Y,2,Methods (data collection),,,,,,,,,,
+Ecology,1950,31,3,473,474,Y,2,Methods (data collection),,,,,,,,,,
+Ecology,1955,36,1,137,139,N,1,Methods (data collection),,,,,,,,,,
+Ecology,1955,36,1,139,141,?,1,Methods (data collection),,,,,,,,,,
+Ecology,1955,36,1,141,153,N,1,Methods (data collection),,,,,,,,,,
+Ecology,1955,36,1,161,161,?,1,Methods (data collection),,,,,,,,,,
+Ecology,1955,36,3,524,525,N,1,Methods (data collection),,,,,,,,,,
+Ecology,1955,36,3,525,526,N,2,Methods (data collection),,,,,,,,,,
+Ecology,1955,36,3,536,537,Y,2,Methods (data collection),,,,,,,,,,
+Ecology,1955,36,4,760,761,?,2,Methods (data collection),,,,,,,,,,
+Ecology,1960,41,1,222,223,?,1,Methods (data collection),,,,,,,,,,
+Ecology,1960,41,1,232,237,N,2,Methods (data collection),,,,,,,,,,
+Ecology,1960,41,2,346,357,Y,2,Methods (data collection),,,,,,,,,,
+Ecology,1960,41,2,359,360,N,1,Methods (data collection),,,,,,,,,,
+Ecology,1960,41,2,360,363,N,2,Methods (data collection),,,,,,,,,,
+Ecology,1960,41,2,375,376,N,1,Methods (data collection),,,,,,,,,,
+Ecology,1960,41,2,389,390,N,2,Methods (data collection),,,,,,,,,,
+Ecology,1960,41,3,541,543,?,2,Methods (data collection),,,,,,,,,,
+Ecology,1960,41,3,560,562,N,1,Methods (data collection),,,,,,,,,,
+Ecology,1960,41,3,563,563,N,1,Methods (data collection),,,,,,,,,,
+Ecology,1960,41,3,573,574,N,1,Methods (data collection),,,,,,,,,,
+Ecology,1960,41,3,585,585,N,1,Methods (data collection),,,,,,,,,,
+Ecology,1965,46,6,867,869,?,1,Methods (data collection),,,,,,,,,,
+Ecology,1965,46,6,887,887,N,1,Methods (data collection),,,,,,,,,,
+Ecology,1965,46,6,888,890,N,1,Methods (data collection),,,,,,,,,,
+Ecology,1970,51,6,1068,1073,?,4,Methods (data collection),,,,,,,,,,
+Ecology,1990,71,6,2370,2371,Y,1,Methods (data collection),,,,,,,,,,
+Ecology,1995,76,8,2656,2660,Y,2,Methods (data collection),,,,,,,,,,
+Ecology,1960,41,2,372,375,N,1,Methods (data collection),,,,,,,,,,
+Ecology,2005,86,12,3303,3311,Y,2,Observational study,,,1,1,,"NP, xform",,,,P only
+Ecology,1995,76,8,2373,2391,N,3,Observational study,,,1,1,,"NP, xform",,,,P only
+Ecology,2015,96,12,3292,3302,Y,6,Lab experiment,,,,1,,,,,,P only
+Ecology,1955,36,2,212,225,N,1,Lab experiment,,,,1,,,,,,P only
+Ecology,1980,61,6,1391,1401,N,1,Lab experiment,,,,1,,,,,,P only
+Ecology,1980,61,6,1486,1497,N,1,Lab experiment,,,,1,,,,,,P only
+Ecology,1990,71,6,2269,2285,Y,2,Lab experiment,,,,1,,,,,,P only
+Ecology,2015,96,12,3270,3280,Y,3,Lab experiment,,,,1,,,,,,P only
+Ecology,2000,81,12,3404,3415,?,5,Observational study,,,,1,,"NP, xform",1,,,P only
+Ecology,1980,61,6,1402,1411,N,3,Observational study,,1,1,1,,"NP, xform",,,,P only
+Ecology,1985,66,6,1736,1743,Y,1,Lab experiment,,,1,1,,"NP, xform",,,,P only
+Ecology,1985,66,6,1699,1705,Y,1,Lab experiment,,,1,1,,"NP, xform",,,,P only
+Ecology,1985,66,6,1729,1735,?,3,Lab experiment,,,1,1,,,,,,P only
+Ecology,1975,56,6,1407,1415,N,1,Lab experiment,,1, ,1,,,,,,P only
+Ecology,1995,76,8,2640,2647,Y,4,Lab experiment,,1, ,1,,,,,,P only
+Ecology,1990,71,6,2224,2240,Y,2,Lab experiment,,1,,1,,"NP, xform",,,,P only
+Ecology,2005,86,12,3219,3224,N,5,Lab experiment,,,,1,,,1,,,P only
+Ecology,1990,71,6,2286,2296,N,1,Field experiment,,,1,1,,"NP, xform",,,,P only
+Ecology,1950,31,3,373,385,Y,1,Lab experiment,,,,1,,,,,,P only
+Ecology,1980,61,6,1352,1360,?,4,Lab experiment,,1,,,,,,,,P only
+Ecology,2015,96,12,3234,3242,?,3,Lab experiment,,1,,1,,,1,,,P only
+Ecology,1965,46,6,881,882,N,2,Lab experiment,,1,,1,,,,,,P only
+Ecology,2000,81,12,3479,3494,Y,2,Field experiment,,,1,1,,"NP, xform",,,,P only
+Ecology,1990,71,6,2083,2094,N,2,Field experiment,,,,1,,"NP, xform",,,,P only
+Ecology,2015,96,12,3312,3322,Y,10,Field experiment,,,,1,,"NP, xform",1,,,P only
+Ecology,2000,81,12,3431,3444,N,1,Field experiment,,,1,1,,"NP, xform",1,,,P only
+Ecology,2000,81,12,3274,3282,?,5,Field experiment,,,,1,,"NP, xform",1,,,P only
+Ecology,1990,71,6,2241,2254,N,2,Field experiment,,,,1,,"NP, xform",1,,,P only
+Ecology,1975,56,6,1441,1445,N,3,Lab experiment,,,,,,,,,1,P only
+Ecology,1960,41,2,287,292,N,1,Lab experiment,,,,1,,,,,,P only
+Ecology,1995,76,8,2429,2445,N,2,Field experiment,,,,1,,"NP, xform",1,,,
+Ecology,1985,66,6,1979,1981,?,3,Lab experiment,,,,,,,,,1,P only
+Ecology,1990,71,6,2218,2223,Y,3,Lab experiment,,,,,,,,,1,P only
+Ecology,2000,81,12,3312,3329,Y,3,Simulation study,,1,1,1,,xform,,,,P only
+Ecology,1995,76,8,2460,2469,N,2,Observational study,,,,1,,xform,,1,,MS-P
+Ecology,1990,71,6,2334,2344,N,1,Lab experiment,,,,1,,,1,,,P only
+Ecology,1980,61,6,1327,1334,Y,1,Lab experiment,,,1,1,,,,,,P only
+Ecology,1980,61,6,1335,1343,N,1,Lab experiment,,,,1,,,,,,P only
+Ecology,1975,56,6,1378,1387,N,3,Lab experiment,,,,1,,,,,,P only
+Ecology,1970,51,6,975,988,N,1,Lab experiment,,,,1,,,,,,P only
+Ecology,1965,46,6,890,895,N,1,Lab experiment,,,,,,,,,1,P only
+Ecology,2010,91,12,3631,3640,N,3,Observational study,,1,,1,,xform,,,,"MS-P,AIC"
+Ecology,1965,46,6,877,881,N,2,Lab experiment,,1,,1,,,,,,None
+Ecology,1955,36,3,400,407,N,1,Lab experiment,,,,1,,,,,,None
+Ecology,1965,46,6,801,807,N,1,Lab experiment,,1,,,,,,,,None
+Ecology,1960,41,2,298,305,?,1,Lab experiment,,,,1,,,,,,None
+Ecology,1980,61,6,1321,1326,?,2,Lab experiment,,,,1,,,,,,Other
+Ecology,2010,91,12,3441,3447,Y,2,Lab experiment,,,,1,,,1,,,"MS-P,AIC"
+Ecology,2015,96,12,3243,3256,Y,5,Lab experiment,,,,1,1,,,,,AIC only
+Ecology,2005,86,12,3387,3397,N,5,Observational study,,,1,1,,xform,1,,,"P,AIC"
+Ecology,1975,56,6,1423,1428,?,3,Lab experiment,,,,1,,,,,,
+Ecology,1990,71,6,2083,2094,N,2,Observational study,,1, ,1,,xform,,,,MS-P
+Ecology,1990,71,6,2069,2082,Y,2,Lab experiment,,,,1,,,,,,
+Ecology,1955,36,4,627,634,N,1,Lab experiment,,,1,,,,,,,
+Ecology,1985,66,6,1976,1978,N,1,Lab experiment,,,1,,,,,,,
+Ecology,2015,96,12,3323,3331,Y,4,Observational study,,,,,,xform,,1,,"P,AIC"
+Ecology,1960,41,2,305,310,N,1,Lab experiment,,,,,,,,,1,
+Ecology,1985,66,6,1706,1717,Y,1,Lab experiment,,,1,1,,,,,,
+Ecology,2005,86,12,3279,3288,N,4,Lab experiment,,,,1,,,,,,
+Ecology,1950,31,1,147,148,?,1,Lab experiment,1,,,,,,,,,
+Ecology,1950,31,4,641,642,?,1,Lab experiment,1,,,,,,,,,
+Ecology,1950,31,2,165,175,N,1,Lab experiment,1,,,,,,,,,
+Ecology,1950,31,2,255,259,?,2,Lab experiment,1,,,,,,,,,
+Ecology,1950,31,3,474,477,N,1,Lab experiment,1,,,,,,,,,
+Ecology,1950,31,4,497,506,?,2,Lab experiment,1,,,,,,,,,
+Ecology,1955,36,1,100,116,N,1,Lab experiment,1,,,,,,,,,
+Ecology,1955,36,2,281,285,N,1,Lab experiment,1,,,,,,,,,
+Ecology,1955,36,2,338,339,N,1,Lab experiment,1,,,,,,,,,
+Ecology,1955,36,2,340,342,?,2,Lab experiment,1,,,,,,,,,
+Ecology,1955,36,3,412,417,N,1,Lab experiment,1,,,,,,,,,
+Ecology,1955,36,3,463,467,N,1,Lab experiment,1,,,,,,,,,
+Ecology,1955,36,3,511,512,?,1,Lab experiment,1,,,,,,,,,
+Ecology,1955,36,3,518,520,N,1,Lab experiment,1,,,,,,,,,
+Ecology,1955,36,4,743,753,?,3,Lab experiment,1,,,,,,,,,
+Ecology,1960,41,1,65,73,N,1,Lab experiment,1,,,,,,,,,
+Ecology,1960,41,1,153,160,?,2,Lab experiment,1,,,,,,,,,
+Ecology,1960,41,1,182,188,?,1,Lab experiment,1,,,,,,,,,
+Ecology,1960,41,1,188,189,?,1,Lab experiment,1,,,,,,,,,
+Ecology,1960,41,1,221,222,N,1,Lab experiment,1,,,,,,,,,
+Ecology,1960,41,1,224,228,?,3,Lab experiment,1,,,,,,,,,
+Ecology,1960,41,2,340,345,?,2,Lab experiment,1,,,,,,,,,
+Ecology,1960,41,2,377,378,N,2,Lab experiment,1,,,,,,,,,
+Ecology,1960,41,2,395,395,N,2,Lab experiment,1,,,,,,,,,
+Ecology,1960,41,3,580,583,?,2,Lab experiment,1,,,,,,,,,
+Ecology,1965,46,6,794,801,N,2,Lab experiment,1,,,,,,,,,
+Ecology,1965,46,6,853,859,?,2,Lab experiment,1,,,,,,,,,
+Ecology,1965,46,6,875,877,N,1,Lab experiment,1,,,,,,,,,
+Ecology,1965,46,6,899,900,N,1,Lab experiment,1,,,,,,,,,
+Ecology,1970,51,6,1040,1045,Y,3,Lab experiment,1,,,,,,,,,
+Ecology,1970,51,6,1046,1051,N,1,Lab experiment,1,,,,,,,,,
+Ecology,1975,56,6,1298,1313,N,1,Lab experiment,1,,,,,,,,,
+Ecology,1985,66,6,1943,1950,N,1,Lab experiment,1,,,,,,,,,
+Ecology,2000,81,12,App,App,Y,3,Lab experiment,1,,,,,,,,,
+Ecology,1950,31,1,152,,N,1,Field note,,,,,,,,,,
+Ecology,1960,41,2,363,365,?,2,Field note,,,,,,,,,,
+Ecology,1950,31,3,478,478,N,1,Field note,,,,,,,,,,
+Ecology,1950,31,4,655,657,N,1,Field note,,,,,,,,,,
+Ecology,1955,36,1,156,158,N,3,Field note,,,,,,,,,,
+Ecology,1955,36,2,343,345,N,1,Field note,,,,,,,,,,
+Ecology,1955,36,2,345,345,Y,2,Field note,,,,,,,,,,
+Ecology,1955,36,2,346,352,N,1,Field note,,,,,,,,,,
+Ecology,1955,36,2,352,353,N,1,Field note,,,,,,,,,,
+Ecology,1955,36,2,367,368,?,1,Field note,,,,,,,,,,
+Ecology,1955,36,3,373,376,N,1,Field note,,,,,,,,,,
+Ecology,1960,41,2,381,381,N,1,Field note,,,,,,,,,,
+Ecology,1960,41,2,383,384,N,1,Field note,,,,,,,,,,
+Ecology,1960,41,2,358,386,N,1,Field note,,,,,,,,,,
+Ecology,1970,51,6,999,1011,Y,2,Observational study,,,,1,,xform,,,,P only
+Ecology,2015,96,12,3197,3212,Y,3,Field experiment,,,,1,,,1,,,"P,AIC"
+Ecology,2010,91,12,3686,3697,?,5,Observational study,,, ,1,,xform,,,,P only
+Ecology,1975,56,6,1343,1355,N,2,Field experiment,,,,1,,,,,,P only
+Ecology,1950,31,3,488,489,N,2,Field experiment,,,,1,,,,,,P only
+Ecology,1985,66,6,1902,1907,N,3,Observational study,,,,1,,xform,,,,P only
+Ecology,1990,71,6,2107,2114,?,2,Field experiment,,,,1,,,,,,P only
+Ecology,1990,71,6,2372,2374,N,3,Observational study,,,,1,1,xform,,,,P only
+Ecology,2010,91,12,3584,3597,Y,2,Field experiment,,,,1,,,,,,P only
+Ecology,2010,91,12,3620,3630,N,2,Field experiment,,,,1,, ,,,,P only
+Ecology,2005,86,12,3364,3376,Y,4,Field experiment,,,,1,,,,,,P only
+Ecology,2010,91,12,3563,3571,Y,3,Observational study,,,,1,,xform,,,,P only
+Ecology,1990,71,6,2345,2357,N,1,Observational study,,,,1,,xform,,,,P only
+Ecology,1995,76,8,2617,2626,N,1,Observational study,,,1,1,,xform,,,,P only
+Ecology,1990,71,6,2209,2217,Y,2,Observational study,,,,1,,xform,,,,P only
+Ecology,1975,56,6,1416,1422,N,1,Observational study,,,,1,,xform,,,,P only
+Ecology,1990,71,6,2179,2190,N,5,Field experiment,,, ,1,,,,,,P only
+Ecology,1980,61,6,1361,1370,N,2,Field experiment,,,,1,,,,,,P only
+Ecology,1985,66,6,1951,1964,N,1,Field experiment,,,,1,,,,,,P only
+Ecology,1980,61,6,1344,1351,N,3,Field experiment,,1,,1,,,,,,P only
+Ecology,1985,66,6,1762,1768,Y,2,Observational study,,1,,1,,xform,,,,P only
+Ecology,1985,66,6,1718,1728,Y,2,Field experiment,,,1,1,,,,,,P only
+Ecology,1980,61,6,1275,1282,Y,2,Field experiment,,,1,,,,,,,P only
+Ecology,1980,61,6,1283,1290,Y,2,Field experiment,,1,1,,,,,,,P only
+Ecology,1980,61,6,1474,1485,N,1,Field experiment,,1,1,,,,,,,P only
+Ecology,1985,66,6,1809,1816,N,1,Field experiment,,,1,1,,,1,,,P only
+Ecology,1985,66,6,1769,1783,N,2,Observational study,,,1,1,,xform,,,,MS-P
+Ecology,2015,96,12,3257,3269,N,7,Observational study,,,,1,,xform,,,,P only
+Ecology,1990,71,6,2115,2124,N,2,Field experiment,,1,,,,,,1,,P only
+Ecology,1955,36,1,63,70,?,3,Field experiment,,,,,,,,,,P only
+Ecology,1985,66,6,1784,1794,N,2,Observational study,,1,,1,,xform,,,,
+Ecology,1995,76,8,2667,2670,Y,2,Observational study,,,,1,,xform,,,,
+Ecology,1995,76,8,2562,2580,?,3,Observational study,,1,1,1,,xform,,,,
+Ecology,1980,61,6,1531,1550,Y,1,Observational study,,1,,1,,xform,,,,
+Ecology,1970,51,6,1083,1087,N,2,Field experiment,,,,,,,,1,,P only
+Ecology,2005,86,12,3232,3237,?,6,Observational study,,,,1,,xform,,,,
+Ecology,1990,71,6,2166,2178,N,2,Lab experiment,,,,1,1,xform,,,,MS-P
+Ecology,2005,86,12,3289,3295,Y,3,Lab experiment,,,,1,,xform,,,,P only
+Ecology,2010,91,12,3598,3608,Y,2,Lab experiment,,,,1,,xform,,,,P only
+Ecology,2010,91,12,3707,3718,Y,4,Field experiment,,,,1,, ,,1,,P only
+Ecology,1990,71,6,2313,2322,N,2,Lab experiment,,,,1,,xform,,,,P only
+Ecology,1985,66,6,1829,1836,N,1,Lab experiment,,,,1,,xform,,,,P only
+Ecology,2000,81,12,3495,3508,N,2,Lab experiment,,,,1,,xform,1,,,P only
+Ecology,1980,61,6,1380,1390,N,2,Field experiment,,,,,,,,,1,P only
+Ecology,1970,51,6,1027,1039,N,2,Field experiment,,,,1,,,,,,P only
+Ecology,2000,81,12,3464,3478,Y,6,Lab experiment,,,,1,,xform,1,,,P only
+Ecology,1980,61,6,1291,1296,N,2,Field experiment,,,,1,,,,,,P only
+Ecology,2010,91,12,3563,3571,Y,3,Field experiment,,,,1,,,1,,,P only
+Ecology,2000,81,12,3522,3529,N,2,Lab experiment,,1,,1,,xform,1,,,P only
+Ecology,1990,71,6,2157,2165,Y,1,Lab experiment,1,,,,,xform,,,,MS-P
+Ecology,1995,76,8,2470,2481,Y,3,Lab experiment,,,,1,,xform,,,,
+Ecology,2000,81,12,3341,3349,Y,3,Field experiment,,,,1,,,1,,,P only
+Ecology,1995,76,8,2648,2655,N,2,Field experiment,,,1,1,,,1,,,P only
+Ecology,1985,66,6,1859,1866,?,1,Field experiment,,,,1,,xform,,,,P only
+Ecology,2000,81,12,3445,3463,Y,3,Field experiment,,1,,1,,,,,,P only
+Ecology,1960,41,3,545,548,N,1,Field experiment,,,,1,,,,,,P only
+Ecology,1990,71,6,2125,2134,N,1,Field experiment,,,,1,,xform,,,,P only
+Ecology,2000,81,12,3391,3403,N,3,Field experiment,,1,,1,,,,,,Other
+Ecology,2015,96,12,3332,3342,N,2,Field experiment,,1,,1,,,1,,,AIC only
+Ecology,2015,96,12,3186,3196,?,2,Field experiment,,1,,,,,,1,,"MS-P,AIC"
+Ecology,1990,71,6,2135,2144,N,3,Field experiment,,,,1,,xform,,,,P only
+Ecology,2010,91,12,3456,3462,Y,5,Field experiment,,,,1,1,,1,,,
+Ecology,1985,66,6,1749,1761,N,1,Field experiment,,,1,1,,xform,,,,P only
+Ecology,1955,36,2,226,238,?,3,Field experiment,,,,1,,,,,,
+Ecology,1955,36,2,304,308,?,2,Field experiment,,,,1,,,,,,
+Ecology,1990,71,6,2334,2344,N,1,Field experiment,,,,1,,,1,,,
+Ecology,1980,61,6,1515,1530,Y,1,Field experiment,,1, ,1,,xform,,,,P only
+Ecology,1985,66,6,1908,1920,N,1,Field experiment,,,,1,,xform,,,,P only
+Ecology,1950,31,4,633,641,N,1,Field experiment,1,,,,,,,,,
+Ecology,1950,31,1,1,5,?,1,Field experiment,1,,,,,,,,,
+Ecology,1950,31,2,194,203,N,2,Field experiment,1,,,,,,,,,
+Ecology,1950,31,2,204,215,N,1,Field experiment,1,,,,,,,,,
+Ecology,1950,31,3,393,404,?,5,Field experiment,1,,,,,,,,,
+Ecology,1955,36,1,153,155,N,1,Field experiment,1,,,,,,,,,
+Ecology,1955,36,3,377,380,N,1,Field experiment,1,,,,,,,,,
+Ecology,1955,36,3,468,473,N,2,Field experiment,1,,,,,,,,,
+Ecology,1955,36,4,566,586,N,1,Field experiment,1,,,,,,,,,
+Ecology,1955,36,4,641,646,?,2,Field experiment,1,,,,,,,,,
+Ecology,1960,41,1,18,28,N,2,Field experiment,1,,,,,,,,,
+Ecology,1960,41,1,56,64,N,1,Field experiment,1,,,,,,,,,
+Ecology,1960,41,1,107,115,N,1,Field experiment,1,,,,,,,,,
+Ecology,1960,41,2,378,381,N,2,Field experiment,1,,,,,,,,,
+Ecology,1965,46,6,831,844,N,1,Field experiment,1,,,,,,,,,
+Ecology,1970,51,6,1088,1093,N,3,Field experiment,1,,,,,,,,,
+Ecology,1970,51,6,1102,1105,N,1,Field experiment,1,,,,,,,,,
+Ecology,1985,66,6,1769,1783,N,2,Field experiment,1,,,,,,,,,
+Ecology,1985,66,6,1928,1942,N,3,Field experiment,1,,,,,,,,,
+Ecology,1990,71,6,2218,2223,Y,3,Field experiment,1,,,,,,,,,
+Ecology,2015,96,12,3175,3185,?,4,Field experiment,1,,,,,,,,,
+Ecology,1955,36,4,762,763,N,1,Erratum,,,,,,,,,,
+Ecology,1950,31,3,495,495,N,1,Erratum,,,,,,,,,,
+Ecology,1950,31,4,665,665,N,2,Erratum,,,,,,,,,,
+Ecology,1960,41,1,247,247,?,2,Erratum,,,,,,,,,,
+Ecology,1965,46,6,904,904,Y,3,Erratum,,,,,,,,,,
+Ecology,1990,71,6,2296,2296,N,1,Erratum,,,,,,,,,,
+Ecology,1990,71,6,2191,2208,Y,2,Field experiment,,,1,1,,xform,,,,P only
+Ecology,1975,56,6,1262,1280,N,1,Descriptive study,,,,1,,,,,,P only
+Ecology,2005,86,12,3354,3363,N,1,Field experiment,,1,,1,,xform,,,,P only
+Ecology,1990,71,6,2297,2312,Y,2,Descriptive study,,,,1,,,,,,P only
+Ecology,1960,41,4,647,656,N,2,Descriptive study,,,1,,,,,,,P only
+Ecology,1965,46,6,882,886,Y,2,Descriptive study,,,1,,,,,,,P only
+Ecology,1980,61,6,1267,1274,?,2,Descriptive study,,,1,,,,,,,P only
+Ecology,1975,56,6,1243,1261,N,2,Descriptive study,,,1,1,,,,,,P only
+Ecology,1965,46,6,816,823,N,1,Descriptive study,,1,,,,,,,,P only
+Ecology,1970,51,6,949,958,N,1,Descriptive study,,,,1,,,, ,,P only
+Ecology,1960,41,4,628,638,?,2,Descriptive study,,,,,,,,1,,P only
+Ecology,1960,41,3,454,460,N,1,Descriptive study,,,,1,,,,,,P only
+Ecology,1980,61,6,1434,1445,?,2,Descriptive study,,,,1,,,,,,P only
+Ecology,1980,61,6,1304,1311,N,3,Descriptive study,,,,1,,,,,,P only
+Ecology,1965,46,6,816,823,N,1,Descriptive study,,,,,,,,,1,P only
+Ecology,1960,41,3,484,494,N,1,Descriptive study,1,,,,,,,,,Other
+Ecology,1960,41,2,327,333,N,1,Descriptive study,,1,,,,,,,,None
+Ecology,1960,41,2,316,327,N,2,Descriptive study,,,,,,,,1,,None
+Ecology,1960,41,2,316,327,N,2,Descriptive study,,,,1,,,,,,None
+Ecology,1980,61,6,1312,1320,N,3,Descriptive study,,,,1,,,,,,None
+Ecology,1960,41,3,585,587,N,1,Descriptive study,,,,1,,,,,,None
+Ecology,1955,36,2,206,212,N,2,Descriptive study,,,,1,,,,,,None
+Ecology,1995,76,8,2415,2428,Y,5,Descriptive study,,,,,,,,1,,"MS-P,AIC"
+Ecology,1960,41,2,365,369,?,1,Descriptive study,,,,1,,,,,,P only
+Ecology,1990,71,6,2069,2082,Y,2,Descriptive study,,1, ,1,,,,,,
+Ecology,1985,66,6,1893,1901,N,1,Field experiment,,,,1,,xform,,1,,P only
+Ecology,1955,36,3,473,485,?,2,Descriptive study,,,1,,,,,,,
+Ecology,1955,36,1,45,63,N,1,Descriptive study,,,,1,1,,,,,
+Ecology,1955,36,3,473,485,?,2,Descriptive study,,,,,,,,,1,
+Ecology,1950,31,1,86,99,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,1,100,108,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,1,119,146,?,3,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,1,149,151,?,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,2,176,193,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,2,216,233,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,2,234,254,Y,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,2,260,278,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,2,279,282,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,2,286,288,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,2,290,292,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,3,313,333,?,2,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,3,334,367,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,3,368,372,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,3,386,392,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,4,497,506,?,2,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,4,507,518,?,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,4,519,531,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,4,532,539,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,4,546,553,N,3,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,4,567,586,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,4,587,605,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,4,606,630,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,4,642,647,?,1,Descriptive study,1,,,,,,,,,
+Ecology,1950,31,4,647,649,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,1,12,18,?,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,1,19,22,?,2,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,1,29,34,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,1,40,44,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,1,124,130,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,1,130,136,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,1,159,160,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,1,162,163,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,169,175,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,176,184,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,185,202,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,202,206,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,262,269,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,269,280,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,285,292,?,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,293,304,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,320,327,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,327,337,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,353,356,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,356,360,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,360,362,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,363,364,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,2,364,366,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,3,381,387,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,3,388,400,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,3,430,439,?,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,3,439,455,?,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,3,495,505,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,3,512,514,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,3,516,518,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,3,520,522,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,3,522,523,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,3,526,528,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,3,529,530,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,543,552,Y,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,552,558,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,558,566,?,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,558,566,?,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,566,586,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,587,600,?,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,601,605,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,601,605,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,601,605,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,606,627,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,658,666,Y,2,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,667,678,?,4,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,678,685,Y,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,685,706,?,2,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,706,732,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,732,739,Y,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,739,743,?,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,755,757,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,757,759,Y,3,Descriptive study,1,,,,,,,,,
+Ecology,1955,36,4,764,767,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,1,1,17,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,1,29,33,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,1,34,49,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,1,73,88,?,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,1,88,99,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,1,99,106,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,1,107,115,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,1,141,152,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,1,165,174,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,1,210,221,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,2,269,286,Y,2,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,2,327,333,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,2,333,340,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,2,365,365,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,2,369,372,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,2,381,382,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,2,381,382,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,2,390,391,?,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,3,416,424,?,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,3,424,431,?,3,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,3,461,474,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,3,474,483,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,3,484,494,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,3,509,517,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,3,518,536,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,3,543,545,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,3,551,552,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,3,553,556,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,3,571,572,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,3,583,584,Y,1,Descriptive study,1,,,,,,,,,
+Ecology,1960,41,4,639,647,?,2,Descriptive study,1,,,,,,,,,
+Ecology,1965,46,6,766,780,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1965,46,6,780,785,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1965,46,6,807,816,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1965,46,6,823,831,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1965,46,6,860,864,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1965,46,6,869,872,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1965,46,6,895,899,N,2,Descriptive study,1,,,,,,,,,
+Ecology,1970,51,6,999,1011,Y,2,Descriptive study,1,,,,,,,,,
+Ecology,1970,51,6,1040,1045,Y,3,Descriptive study,1,,,,,,,,,
+Ecology,1985,66,6,1837,1848,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1970,51,6,949,958,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1970,51,6,975,988,N,1,Descriptive study,1,,,,,,,,,
+Ecology,1990,71,6,2358,2369,?,6,Field experiment,,1,,1,1,xform,,,,P only
+Ecology,1960,41,4,628,638,?,2,Descriptive study,,,,1,,xform,,,,P only
+Ecology,2000,81,12,3416,3430,Y,2,Data compilation study,,,,1,,,,,,P only
+Ecology,1995,76,8,2544,2561,N,2,Data compilation study,,1,,1,,xform,,,,MS-P
+Ecology,2010,91,12,3729,3738,N,2,Data compilation study,,,,1,,xform,,,,"P,AIC"
+Ecology,1995,76,8,2530,2543,Y,4,Data compilation study,,,1,,,,,,,P only
+Ecology,2010,91,12,3664,3674,Y,17,Data compilation study,,1,,1,,,,,,P only
+Ecology,1985,66,6,1859,1866,?,1,Data compilation study,,,,1,,xform,,,,P only
+Ecology,2005,86,12,3377,3386,?,3,Data compilation study,,1, ,1,,xform,,,,P only
+Ecology,2000,81,12,3530,3547,Y,2,Data compilation study,,,1,,,xform,,,,P only
+Ecology,2015,96,12,3363,3373,Y,4,Data compilation study,,,,1,,xform,,,,P only
+Ecology,1985,66,6,1795,1808,N,4,Data compilation study,,,,1,,,,,,P only
+Ecology,2015,96,12,3303,3311,?,8,Data compilation study,,1,,1,,xform,,,,P only
+Ecology,1960,41,1,141,152,N,1,Data compilation study,1,,,,,,,,,
+Ecology,1960,41,1,161,165,N,1,Data compilation study,1,,,,,,,,,
+Ecology,1960,41,3,578,580,Y,3,Data compilation study,1,,,,,,,,,
+Ecology,1950,31,2,282,286,N,1,Data compilation study,1,,,,,,,,,
+Ecology,1950,31,2,293,303,N,1,Data compilation study,1,,,,,,,,,
+Ecology,1960,41,3,564,570,N,1,Data compilation study,1,,,,,,,,,
+Ecology,1985,66,6,1817,1828,Y,3,Data compilation study,1,,,,,,,,,
+Ecology,1960,41,2,292,298,N,1,Data compilation study,1,,,,,,,,,
+Ecology,1950,31,1,109,118,?,1,Commentary,,,,,,,,,,
+Ecology,1950,31,1,151,152,N,1,Commentary,,,,,,,,,,
+Ecology,1950,31,2,288,289,N,1,Commentary,,,,,,,,,,
+Ecology,1950,31,2,303,304,N,1,Commentary,,,,,,,,,,
+Ecology,1950,31,2,304,306,N,1,Commentary,,,,,,,,,,
+Ecology,1950,31,3,478,478,N,1,Commentary,,,,,,,,,,
+Ecology,1950,31,3,489,491,N,1,Commentary,,,,,,,,,,
+Ecology,1950,31,4,631,632,N,1,Commentary,,,,,,,,,,
+Ecology,1950,31,4,650,653,?,1,Commentary,,,,,,,,,,
+Ecology,1950,31,4,653,654,?,1,Commentary,,,,,,,,,,
+Ecology,1950,31,4,657,658,N,1,Commentary,,,,,,,,,,
+Ecology,1955,36,2,339,340,?,1,Commentary,,,,,,,,,,
+Ecology,1955,36,3,506,509,N,1,Commentary,,,,,,,,,,
+Ecology,1955,36,3,514,515,N,1,Commentary,,,,,,,,,,
+Ecology,1955,36,4,767,767,N,2,Commentary,,,,,,,,,,
+Ecology,1960,41,3,537,541,N,1,Commentary,,,,,,,,,,
+Ecology,1960,41,3,556,560,N,1,Commentary,,,,,,,,,,
+Ecology,1960,41,3,592,593,?,1,Commentary,,,,,,,,,,
+Ecology,1960,41,3,593,596,N,1,Commentary,,,,,,,,,,
+Ecology,1960,41,4,612,627,?,1,Commentary,,,,,,,,,,
+Ecology,1975,56,6,1241,1242,N,1,Commentary,,,,,,,,,,
+Ecology,1980,61,6,1551,1552,N,1,Commentary,,,,,,,,,,
+Ecology,1990,71,6,2037,2037,N,1,Commentary,,,,,,,,,,
+Ecology,1990,71,6,2038,2043,N,1,Commentary,,,,,,,,,,
+Ecology,1990,71,6,2060,2068,N,2,Commentary,,,,,,,,,,
+Ecology,1990,71,6,2382,2386,N,1,Commentary,,,,,,,,,,
+Ecology,1990,71,6,2386,2393,N,1,Commentary,,,,,,,,,,
+Ecology,1995,76,8,2660,2663,Y,2,Commentary,,,,,,,,,,
+Ecology,2005,86,12,3137,3138,N,2,Commentary,,,,,,,,,,
+Ecology,2015,96,12,3117,3112,N,1,Commentary,,,,,,,,,,
+Ecology,2015,96,12,3126,3140,Y,3,Commentary,,,,,,,,,,
+Ecology,2015,96,12,3386,3388,N,3,Commentary,,,,,,,,,,
+Ecology,2015,96,12,3388,3389,N,3,Commentary,,,,,,,,,,
+Ecology,2010,91,12,3487,3487,N,1,Commentary,,,,,,,,,,
+Ecology,2010,91,12,3488,3492,?,1,Commentary,,,,,,,,,,
+Ecology,2010,91,12,3493,3496,?,1,Commentary,,,,,,,,,,
+Ecology,2010,91,12,3496,3500,N,1,Commentary,,,,,,,,,,
+Ecology,2010,91,12,3500,3502,N,1,Commentary,,,,,,,,,,
+Ecology,2010,91,12,3503,3514,Y,6,Commentary,,,,,,,,,,
+Ecology,2010,91,12,3739,3742,?,5,Commentary,,,,,,,,,,
+Ecology,2010,91,12,3742,3745,N,2,Commentary,,,,,,,,,,
+Ecology,2005,86,12,3415,3418,N,1,Commentary,,,,,,,,,,
+Ecology,2005,86,12,3418,3419,N,4,Commentary,,,,,,,,,,
+Ecology,1960,41,1,229,232,N,2,Classroom activity,,,,,,,,,,
+Ecology,1955,36,1,116,123,N,1,Book reviews,,,,,,,,,,
+Ecology,1950,31,1,153,164,,,Book reviews,,,,,,,,,,
+Ecology,1950,31,2,307,312, , ,Book reviews,,,,,,,,,,
+Ecology,1950,31,3,492,495, , ,Book reviews,,,,,,,,,,
+Ecology,1950,31,4,659,665,,,Book reviews,,,,,,,,,,
+Ecology,1955,36,1,164,168,,,Book reviews,,,,,,,,,,
+Ecology,1955,36,2,369,372,,,Book reviews,,,,,,,,,,
+Ecology,1955,36,3,538,541,,,Book reviews,,,,,,,,,,
+Ecology,1955,36,4,768,774,,,Book reviews,,,,,,,,,,
+Ecology,1960,41,1,240,247,,,Book reviews,,,,,,,,,,
+Ecology,1960,41,2,400,407,,,Book reviews,,,,,,,,,,
+Ecology,1960,41,3,597,609,,,Book reviews,,,,,,,,,,
+Ecology,1970,51,6,1109,1117,,,Book reviews,,,,,,,,,,
+Ecology,1975,56,6,1462,1476,,,Book reviews,,,,,,,,,,
+Ecology,1980,61,6,1555,1562,,,Book reviews,,,,,,,,,,
+Ecology,1985,66,6,1986,1990,,,Book reviews,,,,,,,,,,
+Ecology,1990,71,6,2394,2404,,,Book reviews,,,,,,,,,,
+Ecology,1995,76,8,2671,2679,,,Book reviews,,,,,,,,,,
+Ecology,2000,81,12,3548,3554,,,Book reviews,,,,,,,,,,
+Ecology,2015,96,12,3390,3395,,,Book reviews,,,,,,,,,,
+Ecology,2010,91,12,3746,3751,,,Book reviews,,,,,,,,,,
+Ecology,2005,86,12,3421,3428,,,Book reviews,,,,,,,,,,
