@@ -178,14 +178,19 @@ plotstattypesProp<-ggplot(test.x.year, aes(fill=(stat.type), y=n.studies, x=Year
   scale_fill_manual(values=cbbPalette) +
   ylab("Proportion of Studies")
 #Facet by study type
+plotstattypesProp
 plotstattypesProp + facet_grid(Type.of.study ~ .)
-
+plotstattypesProp + facet_wrap(~Type.of.study, ncol=2)
 
 ### Class Activities:
-#Look at the proportion of regression studies over time that:
+
+##Filter data to only regression studies (using "Regression" column NOT "stat.type" column)
+
+
+# Look at the proportion of regression studies over time that:
 #  act as if all assumptions met
 #  deal with non-normal errors 
-#  use different approached to deal with non-normal errors (Xform, NP, AltDist)
+#  use different approaches to deal with non-normal errors (Xform, NP, AltDist)
 #  deal with non-independence (mixed model)
 
 
