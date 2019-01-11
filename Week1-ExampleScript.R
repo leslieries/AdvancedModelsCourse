@@ -234,4 +234,6 @@ regression.review <- stat.review %>%
 # Merge branches (using shell in Tools menu).
 # Push changes to origin.
 
+## Vaughn's Analysis ##
+
 
