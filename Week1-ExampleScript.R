@@ -236,4 +236,5 @@ regression.review <- stat.review %>%
 
 ## Vaughn's Analysis ##
 
-
+stat.review$page.len = as.numeric(stat.review$End.pg)-as.numeric(stat.review$Start.pg)
+plot(log(stat.review$page.len)~stat.review$Year, ylab="Number of Pages (log10)", xlab="Year") # plot page lengths for studies (ignoring erroenous page lengths)
